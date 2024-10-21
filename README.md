@@ -23,6 +23,3 @@ The implementation of logistic regression for placement prediction can be found 
 
 ## Conclusion
 Logistic regression is a powerful tool for binary classification tasks like placement prediction. By analyzing features such as CGPA and IQ scores, we can make informed decisions about the likelihood of a student getting placed.
-
-For more information on logistic regression and its applications, refer to the references provided in the script.
-
